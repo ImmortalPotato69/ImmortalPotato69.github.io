@@ -1,7 +1,7 @@
 .avatar-1BDn8e[src*="240663121188880384"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://i.imgur.com/cE01gNo.gif');}
     .avatar-1BDn8e[src*="240663121188880384"] + h2 > .username-1A8OIy:hover::after {
-      content: "Greatest Alive!";
+      content: "Greatest Alive123";
       background-image: linear-gradient(30deg, #5433FF, #20BDFF) !important;
       background-position: center;
       background-size: cover;
